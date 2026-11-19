@@ -1,0 +1,35 @@
+{
+  "name": "color-picker",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": "24.13.0"
+  },
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare",
+    "lint": "eslint .",
+    "typecheck": "nuxt typecheck"
+  },
+  "dependencies": {
+    "@iconify-json/lucide": "^1.2.147",
+    "@iconify-json/simple-icons": "^1.2.100",
+    "@nuxt/fonts": "^1.2.0",
+    "@nuxt/ui": "^4.12.0",
+    "@pinia/nuxt": "^1.0.3",
+    "nuxt": "^4.6.3",
+    "pinia": "^4.1.0",
+    "tailwindcss": "^4.3.3",
+    "tippy.js": "^6.3.7"
+  },
+  "devDependencies": {
+    "@nuxt/eslint": "^1.17.0",
+    "eslint": "^10.13.0",
+    "eslint-plugin-better-tailwindcss": "^4.10.0",
+    "typescript": "^6.0.3",
+    "vue-tsc": "^3.3.13"
+  },
+  "packageManager": "pnpm@12.15.0"
+}
