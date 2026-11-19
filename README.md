@@ -118,7 +118,7 @@ Share links add query parameters to the current URL:
 
 ## Tech
 
-[Nuxt](https://nuxt.com/) (`<script setup>`), [Pinia](https://pinia.vuejs.org), [Vite](https://vitejs.dev), [tippy.js](https://atomiks.github.io/tippyjs/) for tooltips, DM Sans via [Fontsource](https://fontsource.org), and [Vitest](https://vitest.dev) for tests.
+[Nuxt](https://nuxt.com/), [Pinia](https://pinia.vuejs.org), [Vite](https://vitejs.dev), [tippy.js](https://atomiks.github.io/tippyjs/) for tooltips, DM Sans via [Fontsource](https://fontsource.org), and [Vitest](https://vitest.dev) for tests.
 
 ## License
 
